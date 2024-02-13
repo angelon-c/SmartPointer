@@ -1,0 +1,3 @@
+/home/angel/poo/ejemplopunteros/cmake-build-debug/CMakeFiles/ejemplopunteros.dir
+/home/angel/poo/ejemplopunteros/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angel/poo/ejemplopunteros/cmake-build-debug/CMakeFiles/rebuild_cache.dir
